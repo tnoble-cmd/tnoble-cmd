@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tnoble-cmd
+- 👋 Hi, I’m Tyler Noble
 - 👀 I’m interested in Full-Stack Development!
 - 🌱 I’m currently enrolled in Turing school of software and design's Backend Program.
 - 💞️ I’m looking to collaborate on any projects as I am hungry for knowledge and experience! 😁
