@@ -3,7 +3,7 @@
 ---
 ## About Me : 
 
-
+#### I am passionate about leveraging technology to drive meaningful change and innovation. My journey in IT has equipped me with a robust understanding of infrastructure and operations, which I now complement with hands-on experience in programming. I thrive in environments that challenge me to learn and adapt, utilizing my analytical and troubleshooting skills to craft efficient solutions. I have made a transition to software development by attending Turing School of Software and Design. As I pursue this exciting transition, I am eager to contribute my technical acumen and passion for coding to projects that push boundaries and drive innovation.
 
 ---
 
